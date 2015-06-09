@@ -1,0 +1,14 @@
+{
+  "name": "picker",
+  "version": "1.0.0",
+  "author": "Brandon Stephens <brandonstephens@me.com>",
+  "contributors": [
+    "John Arstingstall <jrarst01@gmail.com>",
+    "Robby Davis <robbydavis01@gmail.com>"
+  ],
+  "dependencies": {
+    "bourbon": "^4.2.3",
+    "list.fuzzysearch.js": "https://github.com/javve/list.fuzzysearch.js/archive/v0.1.0.tar.gz",
+    "list.js": "^1.1.1"
+  }
+}
