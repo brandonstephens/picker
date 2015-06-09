@@ -1,8 +1,5 @@
 (function (window, document, undefined) {
-
-'use strict';
-
-document.addEventListener('DOMContentLoaded', function() {
+    'use strict';
 
     // adds ability to remove a single class name from any element
     // thanks @ http://stackoverflow.com/a/18492076
@@ -278,11 +275,6 @@ document.addEventListener('DOMContentLoaded', function() {
         this.updateListItem();
     }
 
-    function getIndex(listItem) {
-
-    }
-
-    
-});
+    window.Picker = Picker;
 
 })(window, document);
